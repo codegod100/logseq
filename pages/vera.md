@@ -1,4 +1,4 @@
 - testing [[logseq]]
 - [[isomorphic git]] ftw
 - [[agora]]
--
+- {{embed [[flancian]] }}
