@@ -1,0 +1,3 @@
+- testing [[logseq]]
+- [[isomorphic git]] ftw
+-
