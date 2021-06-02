@@ -1,1 +1,4 @@
 - [[agora]]
+- can I edit embed or is this a copy-pasta?
+- wow I'm editing from vera node
+	- not sure if obsidian can do this
