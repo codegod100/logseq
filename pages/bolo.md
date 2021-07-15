@@ -1,1 +1,1 @@
-- [[pull]] [[bolo'bolo]]
+- #pull [[bolo'bolo]]
