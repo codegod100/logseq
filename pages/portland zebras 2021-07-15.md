@@ -11,6 +11,7 @@
 	- data/digital infrastructure
 	- backend mighty networks
 	- how they're gathering data from certain areas
-	- information platform
+	- information platform management
+	-
 - founding members circle
 -
