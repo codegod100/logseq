@@ -2,5 +2,3 @@
   ```javascript
   let foo = x
   ```
--
-- ```
