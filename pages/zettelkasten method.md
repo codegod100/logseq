@@ -1,1 +1,3 @@
 - [[pull]] [[zettelkasten]]
+- https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method
+-
