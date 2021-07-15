@@ -3,7 +3,7 @@
 	- slack for chapter leads it looks like?
 - circles
 - new person from black founders something
-	- [] get full name of org
+	- [ ] get full name of org
 	  later:: 1626379684308
 - [[zotero]]
 - stripes how to quantify
