@@ -14,4 +14,4 @@
 	- information platform management
 	-
 - founding members circle
--
+- [[logseq]]
