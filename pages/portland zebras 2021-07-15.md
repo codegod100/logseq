@@ -6,4 +6,5 @@
 	- [] get full name of org
 	  later:: 1626379684308
 - [[zotero]]
+- stripes how to quantify
 -
