@@ -1,4 +1,3 @@
 - [[pull]] [[zettelkasten]]
 - https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method
-- ![](link-previews/2021-07-15-Zettelkasten.de-Getting_Started_•_Zettelkasten….png) 
-  https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method
+- **From Zettelkasten.de: Getting Started • Zettelkasten Method** A Zettelkasten is a personal tool for thinking and writing that creates an interconnected web of thought. Its emphasis is on connection and not mere collection of ideas.
