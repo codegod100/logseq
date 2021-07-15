@@ -1,4 +1,5 @@
 - different places for slack & mighty networks
 	- what goes where
 	- slack for chapter leads it looks like?
+- circles
 -
