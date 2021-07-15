@@ -8,6 +8,9 @@
 - [[zotero]]
 - stripes how to quantify
 - [[infrastructure circle]]
+	- data/digital infrastructure
+	- backend mighty networks
+	- how they're gathering data from certain areas
 	-
 - founding members circle
 -
