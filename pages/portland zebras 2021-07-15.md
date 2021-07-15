@@ -5,4 +5,4 @@
 - new person from black founders something
 	- [] get full name of org
 	  later:: 1626379684308
-- zotero
+- [[zotero]]
