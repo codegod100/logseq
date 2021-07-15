@@ -8,4 +8,6 @@
 - [[zotero]]
 - stripes how to quantify
 - infrastructure circle
+	-
+- founding members circle
 -
