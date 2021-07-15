@@ -1,1 +1,2 @@
-- different places
+- different places for slack & mighty networks
+	-
