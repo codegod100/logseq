@@ -7,4 +7,5 @@
 	  later:: 1626379684308
 - [[zotero]]
 - stripes how to quantify
+- infrastructure circle
 -
