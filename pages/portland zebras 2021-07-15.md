@@ -1,2 +1,2 @@
 - different places for slack & mighty networks
-	-
+	- what goes where
