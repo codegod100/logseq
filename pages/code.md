@@ -1,6 +1,6 @@
 -
   ```javascript
-  let
+  let foo = x
   ```
 -
 - ```
