@@ -1,0 +1,1 @@
+- a constructed word in [[asa'pili]] meaning warfare

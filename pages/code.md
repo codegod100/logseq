@@ -1,0 +1,4 @@
+-
+  ```javascript
+  let foo = x
+  ```

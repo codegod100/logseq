@@ -1,0 +1,17 @@
+- different places for slack & mighty networks
+	- what goes where
+	- slack for chapter leads it looks like?
+- circles
+- new person from black founders something
+	- [ ] get full name of org
+	  later:: 1626379684308
+- [[zotero]]
+- stripes how to quantify
+- [[infrastructure circle]]
+	- data/digital infrastructure
+	- backend mighty networks
+	- how they're gathering data from certain areas
+	- information platform management
+	-
+- founding members circle
+- [[logseq]]
