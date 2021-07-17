@@ -1,11 +1,11 @@
 - Actions and references
 - To complete your 3 month Trial, Chapters are expected to:
-  Organise a Zebras Unite Chapter Event
-  Read about your responsibilities as a chapter lead
-  Join the online ZU community on Mighty Networks and create a group for your chapter members to connect and engage
-  Maintain your chapter Landing page
-  Join our monthly regional Chapter Lead call (New dates coming soon)
-  Use the Dazzle District infrastructure and systems i.e. Chapter Lead Dashboard
-  Share updates on Chapter activities 
-  Engage with other Chapter leads via slack 
-  Engage with the global community through attendance of online events
+- Organise a Zebras Unite Chapter Event
+- Read about your responsibilities as a chapter lead
+- Join the online ZU community on Mighty Networks and create a group for your chapter members to connect and engage
+- Maintain your chapter Landing page
+- Join our monthly regional Chapter Lead call (New dates coming soon)
+- Use the Dazzle District infrastructure and systems i.e. Chapter Lead Dashboard
+- Share updates on Chapter activities
+- Engage with other Chapter leads via slack
+- Engage with the global community through attendance of online events
