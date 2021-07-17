@@ -1,3 +1,3 @@
 - Platformism is a form of anarchist organization that seeks unity from its participants, having as a defining characteristic the idea that each platformist organization should include only people that are [[fully in agreement with core group ideas]], [[rejecting people who disagree]]
-- According to platformism, the four main principles by which an anarchist organisation should operate are ideological unity, tactical unity, collective responsibility and federalism.
+- According to platformism, the four main principles by which an anarchist organisation should operate are [[ideological unity]], [[tactical unity]], [[collective responsibility]] and [[federalism]].
 -
