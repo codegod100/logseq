@@ -3,6 +3,7 @@
 	- Organise a Zebras Unite Chapter Event
 		- Is there a way that we have done this before?
 	- Read about your responsibilities as a chapter lead
+		- NOW find what responsibilities are
 	- Join the online ZU community on Mighty Networks and create a group for your chapter members to connect and engage
 	- Maintain your chapter Landing page
 	- Join our monthly regional Chapter Lead call (New dates coming soon)
