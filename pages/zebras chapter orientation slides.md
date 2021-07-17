@@ -6,6 +6,9 @@
 		- NOW find what responsibilities are
 	- Join the online ZU community on Mighty Networks and create a group for your chapter members to connect and engage
 	- Maintain your chapter Landing page
+		- NOW Where is this located?
+		  later:: 1626544389865
+		  now:: 1626544390478
 	- Join our monthly regional Chapter Lead call (New dates coming soon)
 	- Use the Dazzle District infrastructure and systems i.e. Chapter Lead Dashboard
 	- Share updates on Chapter activities
