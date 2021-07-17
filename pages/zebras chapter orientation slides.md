@@ -18,9 +18,7 @@
 	- Engage with other Chapter leads via slack
 	- Engage with the global community through attendance of online events
 - resources
-	-
-	  ZU Co-op Chapter Lead Orientation - July 2021
-	  And while I'm at it,
+	- https://docs.google.com/presentation/d/1Zn-4ST-Vl-MY9NaHe2v5PV-1Hkj9N-iGdasJy4TFnSQ/edit#slide=id.ge1780f2f13_0_14
 	- https://circles.world/ (I think this is the SF Zebras project. I signed up for the waitlist at the bottom of the page)
 	  https://members.zebrasunite.coop/about-the-co-op (Notion page about the ZU Co-op)
 	  https://members.zebrasunite.coop/ (Notion start page for joining the Co-Op)
