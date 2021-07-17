@@ -33,4 +33,6 @@
 	- crowdcast
 		- NOW what is this?
 		- https://www.crowdcast.io/zebrasunite
+	- public zebra newsletter
+		- https://zebrasunite.us16.list-manage.com/subscribe?u=c1d1e112f334c1424828101d1&id=9884c9fef2
 	-
