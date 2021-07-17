@@ -1,2 +1,2 @@
-- Platformism is a form of anarchist organization that seeks unity from its participants, having as a defining characteristic the idea that each platformist organization should include only people that are fully in agreement with core group ideas, rejecting people who disagree
+- Platformism is a form of anarchist organization that seeks unity from its participants, having as a defining characteristic the idea that each platformist organization should include only people that are [[fully in agreement with core group ideas]], rejecting people who disagree
 -
