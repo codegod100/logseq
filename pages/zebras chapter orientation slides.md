@@ -25,3 +25,6 @@
 	- https://members.zebrasunite.coop/ (Notion start page for joining the Co-Op)
 	- Patronage retrospective
 		- https://docs.google.com/presentation/d/1Zn-4ST-Vl-MY9NaHe2v5PV-1Hkj9N-iGdasJy4TFnSQ/edit#slide=id.ge1780f2f13_0_14
+	- membership dashboard
+		- https://members.zebrasunite.coop/dashboard
+	-
