@@ -6,4 +6,5 @@
 - A social force has a certain capacity to act. The capacity to act can be understood as the possibility that a particular social force has for producing, when it is put into action by the agent who holds it
 - Power is the imposition of the will of an agent that mobilizes through [[social force]] to overcome the force deployed by those who oppose it.
 - power circulates through all social relationships, whether between classes, between groups or even between two people who maintain a relationship
+- there is no political vacuum, because if one of the parties involved in a conflict does not have power, we can say that the other has it.
 -
