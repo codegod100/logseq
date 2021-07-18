@@ -4,5 +4,5 @@
 - the discussion on popular power must consider the idea that social transformation must be based on the leadership of these movements, that is, on the leadership of organized people, which differentiates this approach from others who conceive of transformation as the work of some [[vanguard party]] or as a result of the action of a minority group isolated from the base (as in the case of [[insurrectionary anarchism]] – [[propaganda of the deed]] – or [[foquismo]])
 - it is necessary to understand the main force which is the class struggle, in which a set of [[exploited classes]] (urban and rural workers, peasants, precarious sectors, etc.) is in constant conflict with a [[dominant class]] (urban owners, rural owners, administrators, etc.), who have the State as one of their allies.
 - A social force has a certain capacity to act. The capacity to act can be understood as the possibility that a particular social force has for producing, when it is put into action by the agent who holds it
-- Power is the imposition of the will of an agent that mobilizes through social force to overcome the force deployed by those who oppose it.
+- Power is the imposition of the will of an agent that mobilizes through [[social force]] to overcome the force deployed by those who oppose it.
 -
