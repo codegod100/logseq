@@ -2,4 +2,5 @@
 - capitalism is a [[class society]] and that, therefore, the [[class struggle]] is a central aspect
 - mobilization of the exploited classes and the popular struggles of the masses are essential, since basing themselves on their needs, will and organization, they expose the contradictions of this [[class system]]
 - the discussion on popular power must consider the idea that social transformation must be based on the leadership of these movements, that is, on the leadership of organized people, which differentiates this approach from others who conceive of transformation as the work of some [[vanguard party]] or as a result of the action of a minority group isolated from the base (as in the case of [[insurrectionary anarchism]] – [[propaganda of the deed]] – or [[foquismo]])
+- it is necessary to understand the main force which is the class struggle, in which a set of exploited classes (urban and rural workers, peasants, precarious sectors, etc.) is in constant conflict with a dominant class (urban owners, rural owners, administrators, etc.), who have the State as one of their allies.
 -
