@@ -18,4 +18,5 @@
 - It is the ability to think, propose and make our own destiny and the destiny of the community, region and country, respecting cultural differences and individualities
 	- or not country
 - Building Popular Power means building new relationships on a daily basis in the processes of struggle, in schools, in families, in relations between militants, in organizational structures.
+- Popular Power consciousness will not be imposed from the outside or from the top down, but will take form through a process of innovative ‘praxis’, fight / reflection, practice / awareness, errors / successes.
 -
