@@ -1,2 +1,2 @@
-- The fundamental concept of the libertarian political organization is concentric circles. This concept is simple and requires different forms of activity and levels of commitment
+- The fundamental concept of the [[libertarian political organization]] is concentric circles. This concept is simple and requires different forms of activity and levels of commitment
 -
