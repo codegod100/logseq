@@ -19,5 +19,5 @@
 - [[the platform]]
 	- The authors of the Platform were veteran partisans of the Russian Revolution. They helped lead a peasant guerilla war against Western European armies and later the Bolsheviks in the Ukraine, whose people had a history independent of the Russian Empire
 	- In comparison, the praxis of Especifismo is a living, developed practice, and arguably a much more relevant and contemporary theory, emerging as it does out of 50 years of anarchist organizing
-	-
+	- Whereas the Platform can be easily read as seeing anarchists’ role as narrowly and most centrally within labor unions, Especifismo gives us a living example that we can look towards and which speaks more meaningfully to our work in building a revolutionary movement today.
 -
