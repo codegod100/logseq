@@ -1,3 +1,4 @@
 - Social integration is the process during which newcomers or minorities are incorporated into the social structure of the host society.
 	- I am in this group lol
+- In a broader view, social integration is a dynamic and structured process in which all members participate in dialogue to achieve and maintain peaceful social relations
 -
