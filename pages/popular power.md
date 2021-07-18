@@ -15,4 +15,5 @@
 		-
 - Many anarchists argue that [[building power]] (which is characterized by the mobilization of the grassroots sectors from the bottom up) and therefore of popular power, is, in reality, the [[path of transformation]]
 	- [[m prime]]
+- It is the ability to think, propose and make our own destiny and the destiny of the community, region and country, respecting cultural differences and individualities
 -
