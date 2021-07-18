@@ -11,5 +11,6 @@
 - But if [[anarchists are not against power]], what do they fight against?
 	- domination
 		- Dominance (or domination) is to have the social power of the others (the dominated) and, consequently, of their time to achieve their goals (of the dominator)
+		- [[wage slavery]]
 		-
 -
