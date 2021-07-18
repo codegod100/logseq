@@ -1,5 +1,6 @@
 - Especifismo is considered to have come to broadly similar conclusions to the Organizational Platform of the General Union of Anarchists (Draft) and may be considered to be very similar to [[platformism]][citation needed], which in turn claims its roots lie in the organisational work of figures like Mikhail Bakunin, Errico Malatesta and [[Nestor Makhno]].
 - [[social insertion]]
+	- the oppressed are the most revolutionary sector of society, and that the seed of the future revolutionary transformation of society lies already in these classes and social groupings
 - https://blackrosefed.org/especifismo-weaver
 - key concepts
 	- The need for specifically anarchist organization built around a unity of ideas and praxis.
