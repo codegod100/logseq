@@ -2,5 +2,5 @@
 - [[social insertion]]
 - https://blackrosefed.org/especifismo-weaver
 - The need for specifically anarchist organization built around a unity of ideas and praxis.
-  The use of the specifically anarchist organization to theorize and develop strategic political and organizing work.
+- The use of the specifically anarchist organization to theorize and develop strategic political and organizing work.
   Active involvement in and building of autonomous and popular social movements, which is described as the process of “social insertion.”
