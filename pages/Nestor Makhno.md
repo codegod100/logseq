@@ -1,4 +1,5 @@
 - [[Organizational Platform of the Libertarian Communists]]
 - [[General Union of Anarchists]]
 - [[Organizational Dualism]]
+- https://theanarchistlibrary.org/library/errico-malatesta-and-nestor-makhno-about-the-platform
 -
