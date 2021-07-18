@@ -1,4 +1,4 @@
 - The fundamental concept of the [[libertarian political organization]] is concentric circles. This concept is simple and requires different forms of activity and levels of commitment
 - capitalism is a [[class society]] and that, therefore, the [[class struggle]] is a central aspect
-- mobilization of the exploited classes and the popular struggles of the masses are essential, since basing themselves on their needs, will and organization, they expose the contradictions of this class system
+- mobilization of the exploited classes and the popular struggles of the masses are essential, since basing themselves on their needs, will and organization, they expose the contradictions of this [[class system]]
 -
