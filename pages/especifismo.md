@@ -16,4 +16,5 @@
 - trust within the members and groups is built that allows for a deep, high-level discussion of their action.
 	- might lead to interesting discussions on federated [[trust]] and [[identity]]
 - It must have as a foundation the experience of the [[struggle of the oppressed]] and their aspirations, and from those elements it must set the goals and the tasks to be followed by the [[revolutionary organization]] in order to succeed not only in the final objective but also in the immediate ones.
+- [[the platform]]
 -
