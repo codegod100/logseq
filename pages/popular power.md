@@ -9,4 +9,5 @@
 - there is no political vacuum, because if one of the parties involved in a conflict does not have power, we can say that the other has it.
 	- Therefore, when dealing with the class struggle, the issue is not to discuss how to end power relations, but how to forge a [[libertarian proposal]] in accordance with what we consider essential, both for the definition of struggles – from a militant viewpoint – and for the society we want to build.
 - But if [[anarchists are not against power]], what do they fight against?
+	- domination
 -
