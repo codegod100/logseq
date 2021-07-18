@@ -5,4 +5,5 @@
 	- The need for specifically anarchist organization built around a unity of ideas and praxis.
 	- The use of the specifically anarchist organization to theorize and develop strategic political and organizing work.
 	- Active involvement in and building of autonomous and popular social movements, which is described as the process of “social insertion.”
+- The Especifists put forward three main thrusts to their politics, the first two being on the level of organization. By raising the need for a specifically anarchist organization built around a unity of ideas and praxis, the Especifists inherently state their objection to the idea of a synthesis organization of revolutionaries or multiple currents of anarchists loosely united.
 -
