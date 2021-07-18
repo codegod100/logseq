@@ -18,5 +18,6 @@
 - It must have as a foundation the experience of the [[struggle of the oppressed]] and their aspirations, and from those elements it must set the goals and the tasks to be followed by the [[revolutionary organization]] in order to succeed not only in the final objective but also in the immediate ones.
 - [[the platform]]
 	- The authors of the Platform were veteran partisans of the Russian Revolution. They helped lead a peasant guerilla war against Western European armies and later the Bolsheviks in the Ukraine, whose people had a history independent of the Russian Empire
+	- In comparison, the praxis of Especifismo is a living, developed practice, and arguably a much more relevant and contemporary theory, emerging as it does out of 50 years of anarchist organizing
 	-
 -
