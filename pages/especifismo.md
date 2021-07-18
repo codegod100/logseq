@@ -11,4 +11,5 @@
 - Without a strategy that stems from common political agreement, revolutionary organizations are bound to be an affair of reactivism against the continual manifestations of oppression and injustice and a cycle of fruitless actions to be repeated over and over
 - Especifists criticize these tendencies for being driven by spontaneity and individualism and for not leading to the serious, systematic work needed to build revolutionary movements
 - trust within the members and groups is built that allows for a deep, high-level discussion of their action.
+	- might lead to interesting discussions on federated [[trust]] and [[identity]]
 -
