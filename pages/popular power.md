@@ -13,6 +13,6 @@
 		- Dominance (or domination) is to have the social power of the others (the dominated) and, *consequently, of their time* to achieve their goals (of the dominator)
 		- [[wage slavery]]
 		-
-- Many anarchists argue that building power (which is characterized by the mobilization of the grassroots sectors from the bottom up) and therefore of popular power, is, in reality, the [[path of transformation]]
+- Many anarchists argue that [[building power]] (which is characterized by the mobilization of the grassroots sectors from the bottom up) and therefore of popular power, is, in reality, the [[path of transformation]]
 	- [[m prime]]
 -
