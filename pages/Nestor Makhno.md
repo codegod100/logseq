@@ -1,1 +1,3 @@
 - [[Organizational Platform of the Libertarian Communists]]
+- [[General Union of Anarchists]]
+-
