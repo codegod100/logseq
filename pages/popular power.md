@@ -1,4 +1,4 @@
 - The fundamental concept of the [[libertarian political organization]] is concentric circles. This concept is simple and requires different forms of activity and levels of commitment
 - capitalism is a [[class society]] and that, therefore, the [[class struggle]] is a central aspect
 - mobilization of the exploited classes and the popular struggles of the masses are essential, since basing themselves on their needs, will and organization, they expose the contradictions of this [[class system]]
--
+- the discussion on popular power must consider the idea that social transformation must be based on the leadership of these movements, that is, on the leadership of organized people, which differentiates this approach from others who conceive of transformation as the work of some vanguard party or as a result of the action of a minority group isolated from the base (as in the case of insurrectionary anarchism – propaganda of the deed – or foquismo)
