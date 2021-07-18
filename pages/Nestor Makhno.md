@@ -1,1 +1,1 @@
-- Organizational Platform of the Libertarian Communists
+- [[Organizational Platform of the Libertarian Communists]]
