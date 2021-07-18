@@ -17,4 +17,5 @@
 	- [[m prime]]
 - It is the ability to think, propose and make our own destiny and the destiny of the community, region and country, respecting cultural differences and individualities
 	- or not country
+- Building Popular Power means building new relationships on a daily basis in the processes of struggle, in schools, in families, in relations between militants, in organizational structures.
 -
