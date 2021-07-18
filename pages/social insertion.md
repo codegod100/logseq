@@ -1,0 +1,2 @@
+- Social integration is the process during which newcomers or minorities are incorporated into the social structure of the host society.
+	-
