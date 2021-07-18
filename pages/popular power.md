@@ -19,4 +19,5 @@
 	- or not country
 - Building Popular Power means building new relationships on a daily basis in the processes of struggle, in schools, in families, in relations between militants, in organizational structures.
 - [[Popular Power consciousness]] will not be imposed from the outside or from the top down, but will take form through a process of innovative ‘[[praxis]]’, fight / reflection, practice / awareness, errors / successes.
+- However, there cannot be a bourgeois democracy, imbued with the false notion of equality, where the possibilities are differentiated by the possessions of each one. It should be an exercise in solidarity democracy, direct participation and the construction of class consciousness
 -
