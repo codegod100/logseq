@@ -7,4 +7,5 @@
   now:: 1626985981793
 - contact kim and see whatup
 	- builder@economictinkertoys.org
+	- estate sales?
 -
