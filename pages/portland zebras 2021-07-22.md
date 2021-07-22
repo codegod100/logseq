@@ -1,4 +1,6 @@
 - NASA call on 27th
 - Zanda getting married
 	- doing chapter orientation
+	- send email from last cohort
+- send invite out to tracy/sam/zanda for call with laura tomorrow
 -
