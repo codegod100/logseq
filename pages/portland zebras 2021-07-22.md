@@ -4,3 +4,4 @@
 	- send email from last cohort
 - send invite out to tracy/sam/zanda for call with laura tomorrow
 - contact kim and see whatup
+	- builder@economictinkertoys.org
