@@ -1,0 +1,3 @@
+- NASA call on 27th
+- Zanda getting married
+	- doing chapter orienta
