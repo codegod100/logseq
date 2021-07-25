@@ -1,3 +1,3 @@
 - [[limerence]]
 - to the brain, there is not much difference between having a crush and having a partner. You are so smitten that your brain is operating as if you were with them.
-- if ytou're infatuated it's a sign something is missi
+- if ytou're infatuated it's a sign something is missing from your own life
