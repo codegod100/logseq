@@ -4,4 +4,4 @@
 - it means there are qualities in the other person you want for yourself
 - they're a normal, insecure human like you, not someone who should be worshipped.
 - [[the limerent mind]]
-- l
+-
