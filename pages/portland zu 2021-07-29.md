@@ -1,3 +1,4 @@
 - capital opportunities
 - different programs
-- organization
+- organizational structure / financial vision
+-
