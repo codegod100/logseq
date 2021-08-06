@@ -1,2 +1,4 @@
 - [[deep learning]]
+- [[Microsoft]] has exclusive access?
+	- this is suspicious
 -
