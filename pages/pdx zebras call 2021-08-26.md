@@ -9,4 +9,6 @@
 		- emphatic yes
 	- hyper table in slack
 	- what types of funding?
+		- non dilutive
+		-
 	-
