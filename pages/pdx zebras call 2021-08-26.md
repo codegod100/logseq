@@ -2,4 +2,5 @@
 - Next steps for event?
 	- do we need to reach out to anyone?
 - monday meeting astrid
+	- match making investors and founders
 	-
