@@ -21,4 +21,5 @@
 - [[airtable]]
 - happy hour lunch meetings
 - [[gunter group]]
+- physical meetup sep 11 or 18
 -
