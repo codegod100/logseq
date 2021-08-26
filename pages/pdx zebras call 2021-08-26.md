@@ -4,6 +4,7 @@
 - monday meeting astrid
 	- match making investors and founders
 		- interest form
+	-
 	- capacity for us to blast out to chapter members?
 		- emphatic yes
 	- hyper table in slack
