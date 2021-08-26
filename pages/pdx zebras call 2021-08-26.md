@@ -22,4 +22,6 @@
 - happy hour lunch meetings
 - [[gunter group]]
 - physical meetup sep 11 or 18
--
+- header image
+	- https://docs.google.com/presentation/d/1u_G-9GUMxhT0BqcKpDtK2FxSvndsg8it89RjNzCXF5E/edit#slide=id.geab1e6e5b7_0_17
+	-
