@@ -18,4 +18,5 @@
 		- dilutive
 	- targeting capital space
 	-
-	-
+- [[airtable]]
+-
