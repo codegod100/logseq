@@ -4,6 +4,7 @@
 - monday meeting astrid
 	- match making investors and founders
 		- interest form
+			- https://airtable.com/shrfqK1b0kun2M7hI
 	-
 	- capacity for us to blast out to chapter members?
 		- emphatic yes
