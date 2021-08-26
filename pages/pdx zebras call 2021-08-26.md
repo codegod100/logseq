@@ -1,1 +1,2 @@
-- followup with mailchimp
+- followup with mailchimp audience thing
+-
