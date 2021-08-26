@@ -10,5 +10,6 @@
 	- hyper table in slack
 	- what types of funding?
 		- non dilutive
-		-
+			- angel
+		- dilutive
 	-
