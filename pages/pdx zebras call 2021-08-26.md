@@ -14,4 +14,5 @@
 			- large PE? funds
 			-
 		- dilutive
+	- targeting
 	-
