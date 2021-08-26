@@ -6,4 +6,5 @@
 	- capacity for us to blast out to chapter members?
 		- emphatic yes
 	- hyper table in slack
+	- what types of funding?
 	-
