@@ -19,4 +19,5 @@
 	- targeting capital space
 	-
 - [[airtable]]
+- happy hour lunch meetings
 -
