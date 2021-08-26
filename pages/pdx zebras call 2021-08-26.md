@@ -6,6 +6,7 @@
 		- interest form
 			- https://airtable.com/shrfqK1b0kun2M7hI
 	-
+	- https://airtable.com/shrBLKv9HPKOTjuCZ
 	- capacity for us to blast out to chapter members?
 		- emphatic yes
 	- hyper table in slack
