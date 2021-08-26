@@ -1,2 +1,3 @@
 - followup with mailchimp audience thing
--
+- do we need to reach out to anyone?
+- Next steps for event?
