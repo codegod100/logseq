@@ -1,5 +1,5 @@
 - mailchimp
-	- Portland Zebras 318 contacts
+	- Portland Zebras tag 318 contacts
 - full chapter meetup?
 - chapter programme feedback
 	- https://airtable.com/shr8lVW2xgxq7WFLE
