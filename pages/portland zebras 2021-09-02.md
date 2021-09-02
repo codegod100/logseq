@@ -1,4 +1,4 @@
 - mailchimp
 	- Portland Zebras 318 contacts
 - full chapter meetup?
--
+- chapter programme
