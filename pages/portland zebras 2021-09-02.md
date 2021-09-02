@@ -3,4 +3,7 @@
 - full chapter meetup?
 - chapter programme feedback
 	- https://airtable.com/shr8lVW2xgxq7WFLE
--
+- recordings
+	- https://www.notion.so/zebrasunite/Chapter-Past-Events-84ee7ff0d22a4166918afaf9d0ee22db
+- resources
+	-
