@@ -8,4 +8,6 @@
 - resources
 	- https://www.notion.so/zebrasunite/Chapter-Resources-ee64560695ac464085dcf8b4d14a4b2e
 - zanda sing
-- sep 11 &
+- sep 11 & 25 in person
+- oct 9 nasa event
+-
