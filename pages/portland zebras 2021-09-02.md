@@ -6,4 +6,5 @@
 - recordings
 	- https://www.notion.so/zebrasunite/Chapter-Past-Events-84ee7ff0d22a4166918afaf9d0ee22db
 - resources
-	-
+	- https://www.notion.so/zebrasunite/Chapter-Resources-ee64560695ac464085dcf8b4d14a4b2e
+-
