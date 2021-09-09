@@ -1,2 +1,2 @@
 - I read [[meditations on moloch]] for [[node club]] by [[alan gingsberg]]
-- moloch is a
+- moloch kinda reminds me of the machine in [[bolo]]
