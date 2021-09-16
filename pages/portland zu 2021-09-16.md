@@ -1,5 +1,6 @@
 - https://doc.anagora.org/node-club
 - veronika email Kris with email draft and seewhat he says
 - google form
+	- wtf bro
 - look at sams handbook
 -
