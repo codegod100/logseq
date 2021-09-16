@@ -3,4 +3,5 @@
 - google form
 	- wtf bro
 - look at sams handbook
+- harass esme about leadership
 -
