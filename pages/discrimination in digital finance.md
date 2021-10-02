@@ -4,5 +4,8 @@
 	- An ID costs money and is [[fiscally restrictive]] to those who can't afford it
 		- there exists programs which help pay for these things but they aren't readily available/advertised
 - certain kinds of [[digital instruments]] are limited in their accessibility according to their classification
-	- cashapp/venmo cards and other cards classified as "prepaid" don't
+	- [[cashapp]]/[[venmo]] cards and other cards classified as "prepaid" don't allow you to transfer money on sites that might be considered fiscally risky.
+		- crypto
+		- gaming
+	-
 	-
