@@ -3,6 +3,7 @@
 	- while these substances are unhealthy, limiting their access is still kinda cringe imo, but I'm not exactly offering any solutions to fix it
 	- An ID costs money and is [[fiscally restrictive]] to those who can't afford it
 		- there exists programs which help pay for these things but they aren't readily available/advertised
+	- in order to gain access to [[financial services]] the user must enlist the help of their friends or resort to obtaining illegal documentation
 - certain kinds of [[digital instruments]] are limited in their accessibility according to their classification
 	- [[cashapp]]/[[venmo]] cards and other cards classified as "prepaid" don't allow you to transfer money on sites that might be considered fiscally risky.
 		- crypto
