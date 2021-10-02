@@ -1,6 +1,7 @@
 - Poor people have less access to resources
 - without an ID you can't buy certain scheduled subtstances e.g. alcohol, nicotine
 	- while these substances are unhealthy, limiting their access is still kinda cringe imo, but I'm not exactly offering any solutions to fix it
-	- AnID costs money and is [[fiscally restrictive]] to those who can't afford it
+	- An ID costs money and is [[fiscally restrictive]] to those who can't afford it
 		- there exists programs which help pay for these things but they aren't readily available/advertised
+	-
 		-
