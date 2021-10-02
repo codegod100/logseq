@@ -1,0 +1,2 @@
+- Poor people have less access to resources
+-
