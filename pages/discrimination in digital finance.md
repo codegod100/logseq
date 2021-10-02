@@ -6,7 +6,7 @@
 	- in order to gain access to [[financial services]] the user must enlist the help of their friends or resort to obtaining false documentation
 - certain kinds of [[digital instruments]] are limited in their accessibility according to their classification
 	- [[cashapp]]/[[venmo]] cards and other cards classified as "prepaid" don't allow you to transfer money on sites that might be considered fiscally risky.
-		-
+		- these cards are used as the primary bank and debit card of the user. these users are usually lower income
 		- examples
 			- crypto
 			- gaming
