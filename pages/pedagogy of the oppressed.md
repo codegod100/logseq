@@ -1,0 +1,2 @@
+- https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf
+-
