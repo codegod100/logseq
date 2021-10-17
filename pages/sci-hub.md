@@ -1,1 +1,2 @@
-- Site created by
+- Site created by [[Alexandra Elbakyan]] that removes paypals to scientific research papers
+-
