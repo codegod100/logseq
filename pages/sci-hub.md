@@ -1,3 +1,5 @@
-- Site created by [[Alexandra Elbakyan]] that removes paypals to scientific research papers
-- https://sci-hub.st/
+- Site created by [[Alexandra Elbakyan]] that removes paywallsto scientific research papers
+- mirrors (site is controversial)
+	- https://sci-hub.st/
+	- https://sci-hubtw.hkvisa.net/
 -
