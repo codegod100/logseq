@@ -1,2 +1,4 @@
 - digital object identifier
+- used as a global identifier for academic resources, most notably research papers
+- [[pull]] [[sci-hub]]
 -
