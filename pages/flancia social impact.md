@@ -6,4 +6,5 @@
 - Hoping to use this to springboard other [[philanthropic]] ventures in our area
 - [[grant proposal writing]]
 - philanthropic arm of the [[flancia collective]]
+- [[nonprofit funding]]
 -
