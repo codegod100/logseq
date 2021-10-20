@@ -1,8 +1,8 @@
 - registered [[501c3]] [[nonprofit]]
 - mission: To provide fiscal services to disadvantaged peoples to ensure their survival
 	- We might want to add something about "thriving" in there h/t [[flancian]]
-- I'm still working on paperwork (as of 2021-10-20) but I have a registered business ID with the state of [[oregon]]
+- I'm still working on paperwork (as of 2021-10-20) but I have a registered business ID with the state of [[Oregon]]
 	- I'm hoping my [[EIN]] comes in the mail. I don't see it on the website
-- Hoping to use to use this to springboard other [[philanthropic]] ventures in our area
+- Hoping to use this to springboard other [[philanthropic]] ventures in our area
 - [[grant writing]]
 -
