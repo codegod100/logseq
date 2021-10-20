@@ -1,3 +1,6 @@
+- Resources
+	- https://nonprofithub.org/
+	-
 - Nonprofits can fund their work with sponsorships, grants, individual giving, events, fee-for-service, and more.
 - Sponsorships
 	- Sponsorships allow nonprofits to partner with other reputable organizations to receive funds and in-kind donations.
