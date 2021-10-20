@@ -8,7 +8,7 @@
 	- For example, grocery stores and restaurants might be interested in sponsoring a nonprofit fighting hunger.
 - Individual donations
 	- "donate now" button
-	- peer to peer fundrasing
+	- [[peer to peer fundraising]]
 - [[grant proposal writing]]
 -
 -
