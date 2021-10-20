@@ -1,4 +1,4 @@
 - https://www.givingtuesday.org/
 - [[2021-11-30]]
 - Our global network collaborates year-round to inspire generosity around the world, with a common mission to build a world where generosity is part of everyday life.
--
+- [[flancia social impact]]
