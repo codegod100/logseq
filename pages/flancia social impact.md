@@ -4,4 +4,5 @@
 - I'm still working on paperwork (as of 2021-10-20) but I have a registered business ID with the state of [[oregon]]
 	- I'm hoping my [[EIN]] comes in the mail. I don't see it on the website
 - Hoping to use to use this to springboard other [[philanthropic]] ventures in our area
+- [[grant writing]]
 -
