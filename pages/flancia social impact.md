@@ -1,4 +1,5 @@
 - registered [[501c3]] [[nonprofit]]
 - mission: To provide fiscal services to disadvantaged peoples to ensure their survival
 	- We might want to add something about "thriving" in there h/t [[flancian]]
-- I'm still working on paperwork (as of 2021-10-20)
+- I'm still working on paperwork (as of 2021-10-20) but I have a registered business ID with the state of [[oregon]]
+-
