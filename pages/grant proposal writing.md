@@ -6,4 +6,5 @@
 	- [[Capital support grant]] is most commonly given for specific [[capital campaigns]]. These involve building construction or acquisition, land acquisition, renovations, remodeling, or the rehabilitating of property.
 	- [[Program development grant]] or restricted funding provide funding for a particular purpose or project. This is the most common type of grant funding.
 		- Example: Technology Grants for Nonprofits which can help nonprofits leverage technology for their mission.
+- In 2017, according to Giving USA, foundations contributed 16 percent to the overall philanthropic pie, corporations gave 5 percent, while individual giving accounted for 70 percent.
 -
