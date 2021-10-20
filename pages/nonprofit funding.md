@@ -1,0 +1,2 @@
+- Nonprofits can fund their work with sponsorships, grants, individual giving, events, fee-for-service, and more.
+-
