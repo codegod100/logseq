@@ -2,4 +2,5 @@
 - Sponsorships
 	- Sponsorships allow nonprofits to partner with other reputable organizations to receive funds and in-kind donations.
 	- Usually, this comes in the form of public thanks and displaying the sponsor’s logo
+	-
 -
