@@ -9,8 +9,7 @@
 - Individual donations
 	- "donate now" button
 	- [[peer to peer fundraising]]
-	-
-		- Major donors are a special category of individual donors. These are supporters with the financial means to give more than most. Each nonprofit defines major gifts differently. For a small nonprofit, $250 might be a major gift, while a larger organization may define it as gifts of $5,000 or more
+	- Major donors are a special category of individual donors. These are supporters with the financial means to give more than most. Each nonprofit defines major gifts differently. For a small nonprofit, $250 might be a major gift, while a larger organization may define it as gifts of $5,000 or more
 - [[grant proposal writing]]
 -
 -
