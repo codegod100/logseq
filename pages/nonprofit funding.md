@@ -9,7 +9,8 @@
 - Individual donations
 	- "donate now" button
 	- [[peer to peer fundraising]]
-	- "Major donars"
+	- "Major donors"
+	-
 - [[grant proposal writing]]
 -
 -
