@@ -1,2 +1,3 @@
 - https://www.givingtuesday.org/
-- 30.11.2021
+- [[2021-11-30]]
+-
