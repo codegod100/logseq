@@ -1,0 +1,2 @@
+- In the nonprofit world, peer-to-peer fundraising, a specific form of crowdfunding, has become increasingly prevalent. The terms are often thrown around interchangeably, although they’re two different approaches to raising money.
+-
