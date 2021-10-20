@@ -1,6 +1,7 @@
 - resources
 	- https://donorbox.org/nonprofit-blog/grant-proposals/
 	-
+- types of grants
 - Operating support or unrestricted funding is a grant for day-to-day operating costs. It is used to support the general work of an organization and is not dedicated to a particular purpose or project.
   Capital support is most commonly given for specific capital campaigns. These involve building construction or acquisition, land acquisition, renovations, remodeling, or the rehabilitating of property.
   Program development grants or restricted funding provide funding for a particular purpose or project. This is the most common type of grant funding.
