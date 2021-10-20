@@ -7,6 +7,7 @@
 	- Usually, this comes in the form of public thanks and displaying the sponsor’s logo
 	- For example, grocery stores and restaurants might be interested in sponsoring a nonprofit fighting hunger.
 - Individual donations
+	- "donate now" button
 	-
 - [[grant proposal writing]]
 -
