@@ -5,4 +5,5 @@
 	- I'm hoping my [[EIN]] comes in the mail. I don't see it on the website
 - Hoping to use this to springboard other [[philanthropic]] ventures in our area
 - [[grant proposal writing]]
-- philantrop
+- philanthropic arm of the [[flancia collective]]
+-
