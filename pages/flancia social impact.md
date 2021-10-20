@@ -1,0 +1,2 @@
+- registered [[501c3]] [[nonprofit]]
+- mission: To provide fiscal services to disadvantaged peoples
