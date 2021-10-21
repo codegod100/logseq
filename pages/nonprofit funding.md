@@ -2,15 +2,16 @@
 	- https://nonprofithub.org/
 	-
 - Nonprofits can fund their work with sponsorships, grants, individual giving, events, fee-for-service, and more.
-- Sponsorships
+## Sponsorships
 	- Sponsorships allow nonprofits to partner with other reputable organizations to receive funds and in-kind donations.
 	- Usually, this comes in the form of public thanks and displaying the sponsor’s logo
 	- For example, grocery stores and restaurants might be interested in sponsoring a nonprofit fighting hunger.
-- Individual donations
+## Individual donations
 	- "donate now" button
 	- [[peer to peer fundraising]]
 	- Major donors are a special category of individual donors. These are supporters with the financial means to give more than most. Each nonprofit defines major gifts differently. For a small nonprofit, $250 might be a major gift, while a larger organization may define it as gifts of $5,000 or more
 		- The process of courting and retaining major donors is often called “[[Moves Management]].”
+- Events
 - [[grant proposal writing]]
 -
 -
