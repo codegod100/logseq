@@ -1,8 +1,4 @@
 - Here is an example configuration for Nginx.
-	- foo
-	  ```
-	  
-	  ```
 	- ```
 	  map $http_upgrade $connection_upgrade {
 	        default upgrade;
