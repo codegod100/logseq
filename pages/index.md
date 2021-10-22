@@ -1,2 +1,3 @@
 - [[flancia social impact]]
-	- US based 501(c)
+	- US based 501(c)(3) nonprofit to fund UBI experiments
+	-
