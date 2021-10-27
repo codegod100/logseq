@@ -7,4 +7,5 @@
 - [[grant proposal writing]]
 - philanthropic arm of the [[flancia collective]]
 - [[nonprofit funding]]
+- [[pending tax exempt status]]
 -
