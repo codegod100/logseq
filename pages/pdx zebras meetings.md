@@ -40,6 +40,13 @@
 - email
 	- Fwd: NASA Tech Transfer Program (Slide Deck & Websites)
 
+# 2021-08-19
+- NASA followup
+- burning man
+- happy hour
+- figure out portland mailing mailchimp
+-
+
 
 # 2021-08-26
 - followup with mailchimp audience thing
