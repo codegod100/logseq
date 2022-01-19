@@ -1,3 +1,12 @@
+# 2021-09-16
+- https://doc.anagora.org/node-club
+- veronika email Kris with email draft and see what he says
+- google form
+	- wtf bro
+- look at sams handbook
+- harass esme about leadership
+	- reply in thread
+-
 # 2021-05-31
 - ica.coop
 - [ ] get slide deck
@@ -159,12 +168,3 @@
 
 
 
-# 2021-09-16
-- https://doc.anagora.org/node-club
-- veronika email Kris with email draft and see what he says
-- google form
-	- wtf bro
-- look at sams handbook
-- harass esme about leadership
-	- reply in thread
--
