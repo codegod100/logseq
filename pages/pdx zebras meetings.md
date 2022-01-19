@@ -1,3 +1,66 @@
+# 2021-05-31
+- ica.coop
+- [ ] get slide deck
+- benefit in proportion to participation in coop
+- ica gets together every 35 years
+- zebras fix what unicorns break
+	- [ ] get link
+	- utopia/protopia
+- "dazzle"
+- lot of women, good signal
+- buy in/annual dues
+	- how much?
+		- 100 USD setup
+		- 300 USD annual
+		- It says "contact us" for funding orgs
+	- [ ] will flancia have buy in
+
+- anchors
+	- local branch and brand ownership
+	- esme is stewarding
+	- https://zebrasunite.coop/chapters
+
+- org structure
+	- non profit
+	- dazzle doulas
+	- founding members/general members
+	- institutional members
+
+- [ ] lookup zebras unite capital
+
+
+
+
+- buy in gets you a vote
+- buyin
+- https://drive.google.com/file/d/12q3W1FV0Nr0liD4A4Fw34L2ixnULmhDv/view
+
+- https://members.zebrasunite.coop/
+
+- circle structure
+
+
+- democracy doesn't mean you get your way, but it does mean you get your say
+
+
+# 20221-06-17
+- bubble.io
+	- no/low code app development platform
+- member discounts and benefits
+	- https://members.zebrasunite.coop/dashboard/member-discount-benefits
+- bylaws
+	- https://drive.google.com/file/d/12q3W1FV0Nr0liD4A4Fw34L2ixnULmhDv/view
+- articles of incorporation
+	- https://drive.google.com/file/d/1K4yCZL-j1r7nsmUQu9w-gQhq9TbEczLr/view
+- collaborative funding cobudget
+	- https://cobudget.co/#/
+- It enables all members of an organization to get involved in decision-making by proposing projects and allocating funds to the proposals they like.
+- member dashboard
+	- https://members.zebrasunite.coop/dashboard
+- slide deck
+	- https://docs.google.com/presentation/d/1hPzZ72gbZMMWdIIvdYfbBkhHfYz_OH9j8arAp2k0Kbg/edit#slide=id.ge0c1af6c65_0_359
+- 
+
 # 2021-07-15
 - different places for slack & mighty networks
 	- what goes where
