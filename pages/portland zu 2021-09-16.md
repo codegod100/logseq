@@ -1,8 +1,0 @@
-- https://doc.anagora.org/node-club
-- veronika email Kris with email draft and see what he says
-- google form
-	- wtf bro
-- look at sams handbook
-- harass esme about leadership
-	- reply in thread
--
