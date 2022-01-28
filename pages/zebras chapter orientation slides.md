@@ -36,3 +36,10 @@
 	- public zebra newsletter
 		- https://zebrasunite.us16.list-manage.com/subscribe?u=c1d1e112f334c1424828101d1&id=9884c9fef2
 	-
+
+## Backlinks
+
+> - [Ocell](../../ocell.md)
+>   - [[slides]] https://docs.google.com/presentation/d/1RUXIvwPQyy1_7ujltbT7NEFYTePtl6zhSuXUBJb4oy0/edit#slide=id.p
+
+_Backlinks last generated 2022-01-28 07:55:20_

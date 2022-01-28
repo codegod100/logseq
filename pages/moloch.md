@@ -4,3 +4,10 @@
 - What does the [[death of moloch]] look like?
 - how do we kill moloch without killing ourselves
 -
+
+## Backlinks
+
+> - [](../journals/2021_09_09.md)
+>   - [[moloch]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

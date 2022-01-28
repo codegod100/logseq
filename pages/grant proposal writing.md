@@ -11,3 +11,13 @@
 		- Example: Technology Grants for Nonprofits which can help nonprofits leverage technology for their mission.
 -
 -
+
+## Backlinks
+
+> - [](nonprofit funding.md)
+>   - [[grant proposal writing]]
+>    
+> - [](flancia social impact.md)
+>   - [[grant proposal writing]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

@@ -28,3 +28,10 @@
 	- https://docs.google.com/presentation/d/1u_G-9GUMxhT0BqcKpDtK2FxSvndsg8it89RjNzCXF5E/edit#slide=id.geab1e6e5b7_0_17
 -
 - rough draft for newsletter by 30th
+
+## Backlinks
+
+> - [](../journals/2021_08_26.md)
+>   - [[pdx zebras call 2021-08-26]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

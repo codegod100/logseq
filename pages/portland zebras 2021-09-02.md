@@ -11,3 +11,10 @@
 - sep 11 & 25 in person
 - oct 9 nasa event
 -
+
+## Backlinks
+
+> - [](../journals/2021_09_02.md)
+>   - [[portland zebras 2021-09-02]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

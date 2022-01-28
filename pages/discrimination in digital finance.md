@@ -12,3 +12,13 @@
 			- gaming
 	-
 	-
+
+## Backlinks
+
+> - [](../journals/2021_10_02.md)
+>   - [[discrimination in digital finance]]
+>    
+> - [](../journals/2021_10_03.md)
+>   - started using [[chime]] as my main bank today because of [[discrimination in digital finance]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

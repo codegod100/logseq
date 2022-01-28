@@ -21,3 +21,10 @@
 - [[Popular Power consciousness]] will not be imposed from the outside or from the top down, but will take form through a process of innovative ‘[[praxis]]’, fight / reflection, practice / awareness, errors / successes.
 - However, there cannot be a [[bourgeois democracy]], imbued with the false notion of equality, where the possibilities are differentiated by the possessions of each one. It should be an exercise in [[solidarity democracy]], [[direct participation]] and the construction of [[class consciousness]]
 -
+
+## Backlinks
+
+> - [](../journals/2021_07_18.md)
+>   - [[popular power]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

@@ -13,3 +13,10 @@
 	- builder@economictinkertoys.org
 	- estate sales?
 -
+
+## Backlinks
+
+> - [](../journals/2021_07_22.md)
+>   - [[portland zebras 2021-07-22]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

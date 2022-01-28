@@ -5,3 +5,10 @@
 - they're a normal, insecure human like you, not someone who should be worshipped.
 - [[the limerent mind]]
 -
+
+## Backlinks
+
+> - [](../journals/2021_07_25.md)
+>   - [[infatuation]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

@@ -4,3 +4,10 @@
 - Peer-to-peer fundraising is a multi-tiered approach to crowdfunding. This means individuals can create personal fundraising pages for your cause’s behalf. This can feed revenue back to your organization as a whole, or to a specific campaign you’re running. Either way, the individual shares his or her page with friends, family and community members for donations (hence “peer-to-peer”)
 - The average fundraiser raises $568 from 7 donors – 4 of whom will be new to your organization!
 -
+
+## Backlinks
+
+> - [](nonprofit funding.md)
+>   - [[peer to peer fundraising]]
+
+_Backlinks last generated 2022-01-28 07:55:20_
